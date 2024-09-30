@@ -1,0 +1,17 @@
+.float-left {
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    margin: 10px;
+}
+.float-right {
+    float: right;
+    width: 150px;
+    height: 150px;
+    background-color: lightgreen;
+    margin: 10px;
+}
+.clear {
+    clear: both;
+}
